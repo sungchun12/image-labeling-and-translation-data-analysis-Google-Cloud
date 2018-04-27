@@ -16,7 +16,7 @@ Whoever's reading this, I hope you feel more liberated to explore all the cuttin
 
 **Order of Operations:**
 
-Import packages and API in Colaboratory
+* Import packages and API in Colaboratory
 * Get images from: https://bigquery.cloud.google.com/table/bigquery-public-data:the_met.images?tab=preview
 * Label images
 * Translate results into another language(Spanish)
@@ -24,3 +24,6 @@ Import packages and API in Colaboratory
 * Share end results with someone who speaks another language(most important part!)
 
 Reference: https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/CPB100/lab4c/mlapis.ipynb
+**Notes:**
+* I highly recommend viewing the notebook in colaboratory as it utilizes tons of fun features
+* This notebook assumes you have a billing-enabled Google Cloud account
